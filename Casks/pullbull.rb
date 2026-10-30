@@ -1,6 +1,6 @@
 cask "pullbull" do
-  version "1.6.0"
-  sha256 "73acf284d0022d3a8d487768df46a2e27e4b719143e8bf0df2bb1c989da7742e"
+  version "1.7.0"
+  sha256 "1cca9209f75525c2c1bb99479fc6381a72cceaf5ae8155b036df97c7cbb71f49"
 
   url "https://github.com/rustycamper/pullbull/releases/download/v#{version}/PullBull-#{version}-brew.zip"
   name "PullBull"
